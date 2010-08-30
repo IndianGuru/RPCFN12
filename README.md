@@ -26,21 +26,21 @@ List of code length
 
 **Ruby 1.8.7 or 1.9.1**
 
-12 Cary Swoveland    : 61
-11 Viktor Nemes      : 70
-05 Sebastian Rabuini : 72
-01 Alex Chateau      : 73
-04 Dmytrii Nagirniak : 92
-08 JulioC Villasante : 133
-10 Benoit Daloze     : 161
-99 ashbb             : 49
-
-03 Kirill Shchepelin : 50 ***
-09 Paul McKibbin     : 68 ***
-
-***: Need to be improved to pass all unit tests.
+	12 Cary Swoveland    : 61
+	11 Viktor Nemes      : 70
+	05 Sebastian Rabuini : 72
+	01 Alex Chateau      : 73
+	04 Dmytrii Nagirniak : 92
+	08 JulioC Villasante : 133
+	10 Benoit Daloze     : 161
+	99 ashbb             : 49
+	
+	03 Kirill Shchepelin : 50 ***
+	09 Paul McKibbin     : 68 ***
+	
+	***: Need to be improved to pass all unit tests.
 
 
 **Ruby 1.9.2 only**
 
-01 Alex Chateau      : 35
+	01 Alex Chateau      : 35
