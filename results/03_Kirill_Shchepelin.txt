@@ -1,0 +1,23 @@
+Program code length: 50
+
+Loaded suite 03_Kirill_Shchepelin
+Started
+......FF.....F
+Finished in 0.000000 seconds.
+
+  1) Failure:
+test_simple_cycle3minus1(TestCycleTracks) [D:/ruby/RPCFN/challenge12/solutions/test_cycle_tracks.rb:63]:
+<["c", "a", "b"]> expected but was
+<["a", "b", "c"]>.
+
+  2) Failure:
+test_simple_cycle3minus2(TestCycleTracks) [D:/ruby/RPCFN/challenge12/solutions/test_cycle_tracks.rb:68]:
+<["b", "c", "a"]> expected but was
+<["a", "b", "c"]>.
+
+  3) Failure:
+test_simple_cycle8minus3(TestCycleTracks) [D:/ruby/RPCFN/challenge12/solutions/test_cycle_tracks.rb:33]:
+<["f", "g", "h", "a", "b", "c", "d", "e"]> expected but was
+<["a", "b", "c", "d", "e", "f", "g", "h"]>.
+
+14 tests, 14 assertions, 3 failures, 0 errors, 0 skips

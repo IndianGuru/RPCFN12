@@ -1,0 +1,8 @@
+Program code length: 70
+
+Loaded suite 11_Viktor_Nemes
+Started
+..............
+Finished in 0.015625 seconds.
+
+14 tests, 14 assertions, 0 failures, 0 errors, 0 skips

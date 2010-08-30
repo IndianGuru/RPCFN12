@@ -1,0 +1,8 @@
+Program code length: 92
+
+Loaded suite 04_Dmytrii_Nagirniak
+Started
+..............
+Finished in 0.000000 seconds.
+
+14 tests, 14 assertions, 0 failures, 0 errors, 0 skips

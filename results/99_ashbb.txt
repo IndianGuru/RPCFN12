@@ -1,0 +1,8 @@
+Program code length: 49
+
+Loaded suite 99_ashbb
+Started
+..............
+Finished in 0.000000 seconds.
+
+14 tests, 14 assertions, 0 failures, 0 errors, 0 skips

@@ -1,0 +1,8 @@
+Program code length: 72
+
+Loaded suite 05_Sebastian_Rabuini
+Started
+..............
+Finished in 0.015625 seconds.
+
+14 tests, 14 assertions, 0 failures, 0 errors, 0 skips

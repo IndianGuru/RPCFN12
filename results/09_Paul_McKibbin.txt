@@ -1,0 +1,18 @@
+Program code length: 68
+
+Loaded suite 09_Paul_McKibbin
+Started
+.....F..F.....
+Finished in 0.000000 seconds.
+
+  1) Failure:
+test_simple_cycle33(TestCycleTracks) [D:/ruby/RPCFN/challenge12/solutions/test_cycle_tracks.rb:58]:
+<["a", "b", "c"]> expected but was
+<["a", "b", "c", "a", "b", "c"]>.
+
+  2) Failure:
+test_simple_cycle3minus3(TestCycleTracks) [D:/ruby/RPCFN/challenge12/solutions/test_cycle_tracks.rb:73]:
+<["a", "b", "c"]> expected but was
+<["a", "b", "c", "a", "b", "c"]>.
+
+14 tests, 14 assertions, 2 failures, 0 errors, 0 skips
